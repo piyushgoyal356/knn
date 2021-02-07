@@ -1,2 +1,2 @@
 .ipynb_checkpoints/
-*.csv
+mnist_train.csv
